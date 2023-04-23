@@ -1,0 +1,2 @@
+sudo mount -t vboxsf Django /home/seba/openbootcamp/python/Django4
+
