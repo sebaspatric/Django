@@ -1,0 +1,2 @@
+python3 manage.py check django_seed
+python3 manage.py seed post --number=50 
